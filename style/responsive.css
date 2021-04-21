@@ -1,0 +1,21 @@
+@media screen and (max-width:375px) {
+
+    .card{
+        width: 90%;
+        font-size: 10px;
+    }
+
+    .card-body {
+        margin-top: 80px;
+        align-items: center;
+    }
+
+    .card-city {
+        font-size: 15px;
+    }
+
+    .card-footer {
+        padding-bottom:5em;
+    }
+
+}
